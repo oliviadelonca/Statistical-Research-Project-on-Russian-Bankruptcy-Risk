@@ -17,4 +17,4 @@ Using survival analysis methods (Kaplan-Meier estimator and Cox proportional haz
 3. **Cox proportional hazards model** — estimated in counting-process format (one observation per firm-year), with three specifications:
    - **M1**: sector, region, and year fixed effects
    - **M2**: adds a relative firm-size proxy (revenue quartiles within sector × region cells)
-   - **M3**: adds sector × period interactions to relax the proportional hazards assumption over time
+   - **M3**: adds sector × period interactions
