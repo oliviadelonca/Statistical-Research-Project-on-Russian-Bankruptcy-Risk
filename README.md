@@ -8,7 +8,7 @@ Using survival analysis methods (Kaplan-Meier estimator and Cox proportional haz
 
 - **Source:** [Russian Financial Statements Database (RFSD)](https://github.com/irlcode/RFSD) — annual financial statements of Russian firms (2011–2024), combining data from Rosstat and the Federal Tax Service.
 - **Sample:** ~7.9 million firms after filtering out companies dissolved within 3 years of creation.
-- **Key variables:** `ogrn` (firm ID), `region`, `creation_date`, `dissolution_date`, `okved_section` (industry code), `line_2210` (revenue).
+- **Key variables:** `ogrn` (firm ID), `region`, `creation_date`, `dissolution_date`, `okved_section` (industry code), `line_2110` (revenue).
 
 ## Methodology
 
